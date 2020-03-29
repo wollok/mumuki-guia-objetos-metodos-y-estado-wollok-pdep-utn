@@ -1,0 +1,3 @@
+Ahora te toca a vos hacer tu primer método...
+
+> Declará a `pepita` de manera que sepa responder al mensaje `estaFeliz()` y que responda siempre afirmativamente.:thumbsup:

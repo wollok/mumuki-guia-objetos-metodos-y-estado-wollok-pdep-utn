@@ -1,0 +1,20 @@
+test "si pepita está en rosario y vuela a buenosAires, pierde 29.8 de energía" { 
+   pepita.volarHacia(buenosAires)
+   assert.equals(pepita.energia(), 70.2) 
+}
+
+test "si pepita está en rosario y vuela a rosario, no pierde energia" { 
+   pepita.volarHacia(rosario)
+   assert.equals(pepita.energia(), 100) 
+}
+
+test "si pepita está en rosario y vuela a cordoba su energia debe quedar en 60.2" { 
+   pepita.volarHacia(cordoba)
+   assert.equals(60.2, pepita.energia()) 
+}
+
+test "si pepita está en rosario y vuela a buenosAires, queda en buenos aires" { 
+  pepita.volarHacia(buenosAires)
+  assert.equals(buenosAires, pepita.ciudad())
+  
+}

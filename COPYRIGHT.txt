@@ -1,0 +1,5 @@
+Copyright Carlos Lombardi, Germán Leiva, Nicolas Passerini and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/wollok/mumuki-guia-objetos-metodos-y-estado-wollok-pdep-utn and the AUTHORS.txt file.

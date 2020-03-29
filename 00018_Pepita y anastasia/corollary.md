@@ -1,0 +1,3 @@
+Esto de declarar objetos parece simple, ¿no? 
+
+Resolvamos entonces el problema anterior: ¡hagamos que nuestros objetos entiendan mensajes! Seguínos...

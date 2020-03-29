@@ -1,0 +1,1 @@
+Para no volver a escribir la misma porción de código que ya está definida, te recomendamos utilizar `self` y alguno de los métodos anteriores.

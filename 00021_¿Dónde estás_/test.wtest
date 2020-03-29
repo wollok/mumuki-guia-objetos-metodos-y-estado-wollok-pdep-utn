@@ -1,0 +1,11 @@
+test "Pepita tiene el getter energia()" {
+  assert.equals(100, pepita.energia()) 
+}
+
+test "Pepita no tiene el setter energia(valor)" {
+  assert.throwsException({pepita.energia(200)})
+}
+
+test "Pepita tiene el getter ciudad()" {
+  assert.equals(rosario, pepita.ciudad()) 
+}
